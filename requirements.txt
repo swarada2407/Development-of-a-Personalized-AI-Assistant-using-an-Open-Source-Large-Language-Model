@@ -1,0 +1,4 @@
+Flask>=3.0
+peft>=0.14
+torch>=2.6
+transformers>=4.46
